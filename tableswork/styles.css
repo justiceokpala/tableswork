@@ -1,0 +1,13 @@
+table tr td{
+    width:200px ;
+    border: 1px solid black;  
+  }
+  
+  table{
+      border-collapse: collapse;
+  
+  }
+  th{
+      width: 250px;
+  }
+  
